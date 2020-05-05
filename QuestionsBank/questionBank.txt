@@ -1,0 +1,5 @@
+Are you nuts;true
+Are you smart;false
+Are you blind;true
+Are you a mute;false
+Are you a good guy;true
